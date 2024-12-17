@@ -1,0 +1,3 @@
+﻿  huffman.cpp
+E:\huffmancode\huffman\huffman\huffman.cpp(80,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  huffman.vcxproj -> E:\huffmancode\huffman\Debug\huffman.exe
